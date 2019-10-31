@@ -1,0 +1,70 @@
+@import "Variables";
+
+
+#project-container, .skills-container {
+  padding: 0 1rem;
+  font-family: $fontBold;
+  height: 100vh;
+  position: relative;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  flex-flow: column;
+
+  h2 {
+    font-size: 1rem;
+    opacity: 0.5;
+  }
+
+  li {
+    margin: 2rem 0;
+    font-size: 3rem;
+
+    a {
+      color: black;
+    }
+  }
+
+  a::after {
+    content: " ";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: transparent;
+    transition: background .5s ease;
+  }
+
+  a:link {
+    text-decoration: none;
+    transition: color .5s ease;
+  }
+
+  a:hover {
+    color: white;
+  }
+
+  #calmversation:hover::after {
+    background: #52B0CC;
+  }
+
+  #pokedex:hover::after {
+    background: rgba(255, 0, 0, 0.53);
+  }
+
+  #inhabitent:hover::after {
+    background: #19625C;
+  }
+
+  #ponggame:hover::after {
+    background: rgba(0, 20, 255, 0.45);
+  }
+
+  #instanews:hover::after {
+    background: tomato;
+  }
+
+
+}

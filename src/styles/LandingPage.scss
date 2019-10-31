@@ -1,0 +1,15 @@
+@import "Variables";
+
+
+.landing-page {
+  font-family: $fontBold;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-flow: column nowrap;
+  color: $primary_font_color;
+  text-align: left;
+  font-size: 1.7rem;
+padding: 0 1rem;
+  background: $primary_background;
+}
