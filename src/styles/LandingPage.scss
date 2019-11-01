@@ -6,10 +6,27 @@
   height: 100vh;
   display: flex;
   justify-content: center;
-  flex-flow: column nowrap;
+  flex-flow: column wrap;
   color: $primary_font_color;
   text-align: left;
-  font-size: 1.7rem;
-padding: 0 1rem;
+  padding: 0 1rem;
   background: $primary_background;
+  @include desktop {
+    padding: 0 5rem;
+    @include desktop-1440 {
+      padding: 0 15rem;
+    }
+  }
+
+  h1 {
+    font-size: 3rem;
+
+    @include desktop {
+      width: 300px;
+      @include desktop-1440 {
+        font-size: 4rem;
+        width: 400px;
+      }
+    }
+  }
 }

@@ -3,3 +3,19 @@ $fontLight: "Helvetica Neue Light", sans-serif;
 
 $primary_font_color: #bdbdd5;
 $primary_background: #22222a;
+
+$desktop-width: 1024px;
+$desktop-width-1440: 1440px;
+
+
+@mixin desktop {
+  @media (min-width: $desktop-width) {
+    @content
+  }
+}
+
+@mixin desktop-1440 {
+  @media (min-width: $desktop-width-1440) {
+    @content
+  }
+}

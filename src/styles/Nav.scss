@@ -11,7 +11,7 @@
   font-weight: 900;
   font-family: sans-serif;
   text-transform: uppercase;
-  color: #ffffff;
+  color: $primary_font_color;
 
   > span {
     text-transform: none;
@@ -37,7 +37,7 @@ input + label {
     margin-top: -1px;
     left: 0;
     display: block;
-    background: #ffffff;
+    background: $primary_font_color;
     transition: .5s;
   }
 
