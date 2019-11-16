@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.075ea792.chunk.css",
-    "main.js": "/portfolio/static/js/main.aa21409b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.aa21409b.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.a4d6d81d.chunk.css",
+    "main.js": "/portfolio/static/js/main.72d1d895.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.72d1d895.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.e92c632a.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.e92c632a.js.map",
     "static/js/2.7d25e58d.chunk.js": "/portfolio/static/js/2.7d25e58d.chunk.js",
     "static/js/2.7d25e58d.chunk.js.map": "/portfolio/static/js/2.7d25e58d.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.2c1eb53d840595a27d3b0627cec42a77.js": "/portfolio/precache-manifest.2c1eb53d840595a27d3b0627cec42a77.js",
+    "precache-manifest.c9dfdb6cd56fbcd4f570919854ba8050.js": "/portfolio/precache-manifest.c9dfdb6cd56fbcd4f570919854ba8050.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.075ea792.chunk.css.map": "/portfolio/static/css/main.075ea792.chunk.css.map",
+    "static/css/main.a4d6d81d.chunk.css.map": "/portfolio/static/css/main.a4d6d81d.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/HelveticaNeueLight.212707c7.woff",
     "static/media/Nikki Wu Resume.pdf": "/portfolio/static/media/Nikki Wu Resume.d5abf2c2.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.e92c632a.js",
     "static/js/2.7d25e58d.chunk.js",
-    "static/css/main.075ea792.chunk.css",
-    "static/js/main.aa21409b.chunk.js"
+    "static/css/main.a4d6d81d.chunk.css",
+    "static/js/main.72d1d895.chunk.js"
   ]
 }
