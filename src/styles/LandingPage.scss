@@ -20,12 +20,13 @@
 
   h1 {
     font-size: 3rem;
+    max-width: 300px;
 
     @include desktop {
-      width: 300px;
+      max-width: 300px;
       @include desktop-1440 {
         font-size: 4rem;
-        width: 400px;
+        max-width: 400px;
       }
     }
   }
