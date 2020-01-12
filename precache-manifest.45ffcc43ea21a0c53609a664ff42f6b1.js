@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abd3623a5a633680a5c38bec2b6dded1",
+    "revision": "d2cc604fb6344a96ce47de5498d237ab",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "db3591cac2c154df8d79",
-    "url": "/portfolio/static/css/main.c3e0b445.chunk.css"
+    "revision": "a06203ff52f8b84dfd3f",
+    "url": "/portfolio/static/css/main.b10d95b8.chunk.css"
   },
   {
-    "revision": "31f06ef6440bd3a32153",
-    "url": "/portfolio/static/js/2.7d25e58d.chunk.js"
+    "revision": "e67af8f981f9bb86acd1",
+    "url": "/portfolio/static/js/2.94c6752a.chunk.js"
   },
   {
-    "revision": "db3591cac2c154df8d79",
-    "url": "/portfolio/static/js/main.e95dab04.chunk.js"
+    "revision": "a06203ff52f8b84dfd3f",
+    "url": "/portfolio/static/js/main.cf8e800f.chunk.js"
   },
   {
     "revision": "76aa8cbd67b5c937ec2c",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/HelveticaNeueLight.212707c7.woff"
   },
   {
-    "revision": "d5abf2c2956c245702a342b64695e4a1",
-    "url": "/portfolio/static/media/Nikki Wu Resume.d5abf2c2.pdf"
+    "revision": "d54149d5880b8e8fd4889f8b1160d3dc",
+    "url": "/portfolio/static/media/Nikki Wu Resume.d54149d5.pdf"
   }
 ]);
